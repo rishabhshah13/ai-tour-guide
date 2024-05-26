@@ -45,3 +45,42 @@ This project aims to create an AI-powered virtual tour guide that uses a text-to
 - Deploy the application to the production environment.
 - Monitor application performance and user feedback.
 - Plan and implement post-launch updates and improvements.
+
+Week:       1     2     3     4     5     6     7     8     9     10    11    12
+--------------------------------------------------------------------------------
+Topic Ideation and Research 
+|---------|---------|
+
+User Experience Design
+                        |---------|
+
+Model Exploration and Selection
+                        |---------|
+
+Data Collection and Preparation
+                        |---------|
+
+Backend Development
+                                      |---------|
+
+Security and Privacy Considerations
+                                                |---------|
+
+Frontend Development
+                                                      |---------|
+
+Integration and Testing
+                                                                    |---------|
+
+Deployment Setup
+                                                                              |---------|
+
+Final Testing and Debugging
+                                                                                       |---------|
+
+Documentation and Training Materials
+                                                                                       |---------|---------|
+
+Launch and Post-Launch Activities
+                                                                                                 |---------|
+
