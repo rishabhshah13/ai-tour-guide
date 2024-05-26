@@ -1,5 +1,3 @@
-### README: Virtual Tour AI Guide
-
 # Virtual Tour AI Guide
 
 This project aims to create an AI-powered virtual tour guide that uses a text-to-speech engine to provide informative narrations about various locations and allows users to ask questions about the place they are visiting.
