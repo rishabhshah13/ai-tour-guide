@@ -42,12 +42,7 @@ This project aims to create an AI-powered virtual tour guide that uses a text-to
 - Configure continuous integration (CI) pipelines using tools like Jenkins or GitHub Actions.
 - Prepare for continuous deployment (CD) to ensure seamless updates.
 
-#### Week 11: Final Testing and Debugging
+#### Week 11-12: Final Testing and Documentation
 - Conduct end-to-end testing to ensure all features work as expected.
-- Debug and fix any issues identified during testing.
-- Optimize performance and scalability of the application.
-
-#### Week 12: Launch and Post-Launch Activities
-- Deploy the application to the production environment.
 - Monitor application performance and user feedback.
-- Plan and implement post-launch updates and improvements.
+- Make Detailed documentation about the project
