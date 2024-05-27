@@ -14,10 +14,16 @@ This project aims to create an AI-powered virtual tour guide that uses a text-to
 - Research existing solutions and technologies for virtual tour guides.
 
 #### Week 3-4: Model Exploration and Selection
-- Evaluate different NLP and text-to-speech models
+- Evaluate TTS models
 - Experiment with pre-trained models and select the most suitable ones.
 
-#### Week 5-6: Backend Development
+#### Week 5: RAG (Retrieval-Augmented Generation) System Development
+- Webscrape data for various locations
+- Implement a Retrieval-Augmented Generation (RAG) system to pull up facts and information in response to user questions.
+- Integrate the RAG system with the NLP model to enhance the accuracy and relevance of responses.
+- Source and preprocess data to be used by the RAG system.
+
+#### Week 6: Backend Development
 - Set up the backend framework (Flask/Django).
 - Develop RESTful APIs for fetching location data and processing user queries.
 - Integrate text-to-speech and NLP models into the backend.
